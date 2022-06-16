@@ -10,7 +10,7 @@
 
 Thanks for stopping by!
 
-- 🔭 I’m currently working on GamerHaven.gg
+- 🔭 I’m currently working on <a href="https://gamerhaven.gg">GamerHaven.gg</a>
 - 🌱 I’m currently learning app creation
 - 👯 I’m looking to collaborate on creative projects
 - 🤔 I’m looking for help with networking
