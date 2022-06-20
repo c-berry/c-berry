@@ -8,7 +8,7 @@
 **c-berry/c-berry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Thanks for stopping by!
+<!-- Thanks for stopping by! -->
 
 - 🔭 I’m currently working on <a href="https://gamerhaven.gg">GamerHaven.gg</a>
 - 🌱 I’m currently learning app creation
