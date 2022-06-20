@@ -1,4 +1,4 @@
-### Howdy 👋
+###  :v:Welcome🤚
 
 [![Chris Berry's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-berry&hide=stars&theme=synthwave)](https://github.com/c-berry)
 
@@ -12,7 +12,7 @@ Thanks for stopping by!
 
 - 🔭 I’m currently working on <a href="https://gamerhaven.gg">GamerHaven.gg</a>
 - 🌱 I’m currently learning app creation
-- 👯 I’m looking to collaborate on creative projects
-- 🤔 I’m looking for help with networking
-- 💬 Ask me anything!
-- 📫 How to reach me: christopher.m.berry01@gmail.com
+- 🌎 I’m looking to collaborate on creative projects
+- 🎭 I’m looking for help with networking
+- 🎱 Ask me anything!
+- 📤 How to reach me: christopher.m.berry01@gmail.com
