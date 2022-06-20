@@ -1,4 +1,4 @@
-###  :v:Welcome🤚
+###  Welcome:v:
 
 [![Chris Berry's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-berry&hide=stars&theme=synthwave)](https://github.com/c-berry)
 
