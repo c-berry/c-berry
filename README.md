@@ -10,8 +10,9 @@
 
 <!-- Thanks for stopping by! -->
 
-- 🔭 I’m currently working on <a href="https://gamerhaven.gg">GamerHaven.gg</a>
-- 🌱 I’m currently learning app creation
+- 😎 Check out my team's capstone project! <a href="https://gamerhaven.gg">GamerHaven.gg</a>
+- 🔭 I’m currently working on finding employment
+- 🌱 I’m currently learning React
 - 🌎 I’m looking to collaborate on creative projects
 - 🎭 I’m looking for help with networking
 - 🎱 Ask me anything!
