@@ -12,7 +12,6 @@
 
 - 😎 Check out my team's capstone project! <a href="https://gamerhaven.gg">GamerHaven.gg</a>
 - 🤓 Hire us! <a href="https://alumni.codeup.com/students/1519">Alumni Portal</a>
-- 🔭 I’m currently working on PokeApp using Spring Boot
 - 🌱 I’m currently learning React
 - 🌎 I’m looking to collaborate on creative projects
 - 🎭 I’m looking for help with networking
