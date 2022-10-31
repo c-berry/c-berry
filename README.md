@@ -15,4 +15,4 @@
 - 🌎 I’m looking to collaborate on creative projects
 - 🎭 I’m looking for help with networking
 - 🎱 Ask me anything!
-- 📤 How to reach me: christopher.m.berry01@gmail.com
+- 📤 How to reach me: christopher (dot) m (dot) berry01 (at) gmail (dot) com
